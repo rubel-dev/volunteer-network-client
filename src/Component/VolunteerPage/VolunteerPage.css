@@ -1,0 +1,22 @@
+div.img {
+    margin:5px 0px 15px 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 220px;
+    height:260px;
+    overflow: hidden;
+    border-radius:5px;
+    
+}	
+ 
+div.img img {
+    width: 100%;
+  
+}
+div.info {
+    padding: 15px;
+    text-align: center;
+}
+div.info p{
+    color: white;
+}

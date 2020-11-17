@@ -1,0 +1,21 @@
+.card{
+    height: 300px;
+    width:250px;
+    float: left;
+    margin-left: 100px;
+   
+   
+}
+ .img img{
+     width:130px;
+     float: left;
+ }
+.img{
+   border-radius: 5px;
+    width:200px;
+    float: left;
+}
+.content{
+    width:210px;
+    text-align: center;
+}
